@@ -19,8 +19,8 @@ Recreate the New York Times "Connections" game.
 ## Development Plan
 
 - [ ] **Phase 1: Database Setup**
-    - [ ] Create MySQL database, initialise tables for puzzles, groups and words
-    - [ ] Sample puzzle stored in database
+    - [x] Create MySQL database, initialise tables for puzzles, groups and words
+    - [x] Sample puzzle stored in database
     - [ ] Python link to retrieve data for a particular puzzle  from the database
 
 - [ ] **Phase 2: Game UI & Selection [Player Story 1]**

@@ -3,27 +3,23 @@
     "puzzle_id": 1,
     "groups": [
       {
-        "group_id": 1,
-        "category_name": "TASKS FOR A STUDENT",
         "difficulty": 1,
+        "category_name": "TASKS FOR A STUDENT",
         "words": ["ASSIGNMENT", "DRILL", "EXERCISE", "LESSON"]
       },
       {
-        "group_id": 2,
-        "category_name": "ENCOURAGING RESPONSES IN A GUESSING GAME",
         "difficulty": 2,
+        "category_name": "ENCOURAGING RESPONSES IN A GUESSING GAME",
         "words": ["ALMOST", "CLOSE", "NOT QUITE", "WARM"]
       },
       {
-        "group_id": 3,
-        "category_name": "UP FOR ANYTHING",
         "difficulty": 3,
+        "category_name": "UP FOR ANYTHING",
         "words": ["EASY", "FLEXIBLE", "GAME", "OPEN"]
       },
       {
-        "group_id": 4,
-        "category_name": "WHAT \"A\" MIGHT MEAN",
         "difficulty": 4,
+        "category_name": "WHAT \"A\" MIGHT MEAN",
         "words": ["AREA", "ATHLETIC", "EXCELLENT", "ONE"]
       }
     ]
